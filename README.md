@@ -9,8 +9,11 @@ Reusable Object-oriented Software Addison-Wesley, 1995.
 
 ## Behavioural Patterns
 ### 1. Strategy Pattern
-Examples: Line breaking algorithm.
 ### 2. Template Pattern
+### 3. Observer Pattern
+### 4. Iterator Pattern
+### 5. Chain Of Responsibilities
+
 
 ## Creational Patterns
 ### 1. Singleton Pattern
@@ -18,4 +21,5 @@ Examples: Line breaking algorithm.
 ## Structural Patterns
 ### 1. Adapter Pattern
 ### 2. Decorator Pattern
+### 3. Facade Pattern
     
